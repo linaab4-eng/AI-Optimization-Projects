@@ -21,5 +21,7 @@ After quantization, the model achieved:
 2. Ensure you have `torch` and `torchvision` installed.
 3. Run the `PTQ_Quantization_MNIST.ipynb` notebook to see the evaluation and visualization.
 
+> [!NOTE]
+> This repository currently showcases the **PTQ (Post-Training Quantization)** implementation. Scripts for **QAT** and **Pruning** are currently being refined and will be uploaded soon to complete the full comparative study.
 ---
-*Developed as part of my Master's Degree in Computer Science (Information Systems).*
+*Developed as part of my Master's Degree in Computer Science.*
